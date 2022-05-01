@@ -1,3 +1,39 @@
 ---
-Title: Curriculum Vitae
+title: Curriculum Vitae
 ---
+# Education
+
+---
+
+**University of Nebraska, Lincoln, NE** [*August 2012 – December 2017*]{style="float:right"}  
+Doctor of Philosophy, Biochemistry  
+
+**St. Olaf College, Northfield, MN** [*July 2008 – June 2012*]{style="float:right"}  
+Bachelor of Arts  
+Biology & Chemistry Majors, Biomolecular Sciences & Environmental Studies Concentrations
+
+<br>
+
+# Research Experience
+
+---
+<style>
+.nobullet li {
+list-style-type: none;
+}
+</style>
+
+**Research Scientist II, Mass Spectrometry Facility** [*November 2021 – current*]{style="float:right"}  
+*University of Texas Medical Branch, Galveston, TX*
+<div class="nobullet">
+- Headed the small molecules division of the Mass Spectrometry Facility to provide metabolomic and lipidomic services to research labs.
+</div>
+
+<br>
+
+**Postdoctoral Research Associate** [*November 2017 – November 2021*]{style="float:right"}  
+*University of North Texas, Denton, TX*
+<div class="nobullet">
+- Conducted lipidomic and mass spectrometry imaging research on triacylglycerol estolides of *Orychophragmus violaceus*, ^13^C-MS imaging method development, transgenic pennycress (*Thlaspi arvense*), & other transgenic oilseeds.  
+</div>
+
