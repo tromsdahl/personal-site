@@ -1,14 +1,14 @@
 baseURL: https://example.com
-title: Website Name
+title: Trevor B. Romsdahl
 theme: etch
 languageCode: en-US
 enableInlineShortcodes: yes
 pygmentsCodeFences: yes
 pygmentsUseClasses: yes
 params:
-  copyright: Copyright © 2021 Your Name
-  dark: auto
-  description: Your site description
+  copyright: Copyright © 2022 Trevor B. Romsdahl
+  dark: "off"
+  description: Personal website of Trevor B. Romsdahl.
   highlight: yes
 menu:
   main:
@@ -17,13 +17,24 @@ menu:
       title: posts
       url: /
       weight: 10
+    - identifier: CV
+      name: CV
+      title: CV
+      url: /cv/
+      weight: 15
     - identifier: about
       name: about
       title: about
       url: /about/
       weight: 20
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.mg$
+  - \.utf8\.md$
 permalinks:
-  posts: /:title/
+  posts: /:year/:month/:day/:slug/
 markup:
   goldmark:
     renderer:

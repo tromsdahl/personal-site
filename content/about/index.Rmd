@@ -1,0 +1,7 @@
+---
+title: About
+---
+
+<center>![](/img/2020-me.jpg){width=200 height=315}</center>
+
+I am an analytical biochemist who works with mass spectrometry. My background is more on lipidomics, but I'm interested in all sorts of metabolomics research.

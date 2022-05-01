@@ -1,4 +1,4 @@
 ---
 title: Home
 ---
-This is some info about me.
+A secret corner of the web where I write things.
