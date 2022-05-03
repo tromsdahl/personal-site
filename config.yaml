@@ -17,6 +17,16 @@ menu:
       title: posts
       url: /
       weight: 10
+    - identifier: categories
+      name: categories
+      title: categories
+      url: /categories/
+      weight: 11
+    - identifier: tags
+      name: tags
+      title: tags
+      url: /tags/
+      weight: 12
     - identifier: CV
       name: CV
       title: CV
