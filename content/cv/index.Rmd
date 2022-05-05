@@ -1,6 +1,9 @@
 ---
 title: Curriculum Vitae
 ---
+
+<br>
+
 # Education
 
 ---
@@ -27,3 +30,49 @@ Biology & Chemistry Majors, Biomolecular Sciences & Environmental Studies Concen
 
 **Graduate Research Assistant** [*August 2012 – November 2017*]{style="float:right"}  
 *University of Nebraska, Lincoln, NE*
+
+<br>
+
+# Research Interests  
+
+---
+
+*(probably too many to be honest)*
+
++ Lipidomics & Metabolomics  
+
++ Applications of Mass Spectrometry  
+
++ Novel Bioproduct Discovery & Characterization  
+
++ Cell Membrane Dynamics  
+
++ Lipid Signaling and Metabolism  
+
++ *et al.*  
+
+<br>
+
+# Publications  
+
+---
+
+*(for the most up to date list of publications, see [google scholar](https://scholar.google.com/citations?user=0YJrauUAAAAJ&hl=en&oi=ao))*  
+
+1. **Romsdahl, T. B.**, Kambhampati, S., Koley, S., Yadav, U. P., Allen, D. K., and Chapman, K. D. Analyzing Mass Spectrometry Imaging Data of ^13^C-labeled Phospholipids in *Camelina sativa* and *Thlaspi arvense* (Pennycress) Embryos. Metabolites 11, 148 (2021) doi: [10.3390/metabo11030148](https://doi.org/10.3390/metabo11030148)  
+
+2. Jarvis, B. A., **Romsdahl, T. B.**, McGinn, M., Nazarenus, T. J., Cahoon, E. B., Chapman, K. D., and Sedbrook, J. C. CRISPR/Cas9-Induced fad2 and rod1 Mutations Stacked with fae1 Confer High Oleic Acid Seed Oil in Pennycress (*Thlaspi arvense* L.). Frontiers in Plant Science (2021) doi: [10.3389/fpls.2021.652319](https://doi.org/10.3389/fpls.2021.652319)  
+
+3. Salimath, S. S., **Romsdahl, T. B.**, Konda, A. R., Zhang, W., Cahoon, E. B., Dowd, M. K., Wedegaertner, T. C., Hake, K. D., and Chapman, K. D. Production of Tocotrienols in Seeds of Cotton (*Gossypium hirsutum* L.) Enhances Oxidative Stability and Offers Nutraceutical Potential. Plant Biotechnol. J. (2021) doi: [10.1111/pbi.13557](https://doi.org/10.1111/pbi.13557)  
+
+4. Sturtevant, D., Aziz, M., **Romsdahl, T. B.**, Corley, C. D., and Chapman, K. D. In situ Localization of Plant Lipid Metabolites by Matrix Assisted Laser Desorption/Ionization-Mass Spectrometry Imaging (MALDI-MSI). Plant Lipids: Methods in Molecular Biology, 2295 (2021) doi: [10.1007/978-1-0716-1362-7_24](https://doi.org/10.1007/978-1-0716-1362-7\_24) (cover image by **Romsdahl, T. B.**)  
+
+5. Dokwal, D., **Romsdahl, T. B.**, Kunz, D. A., Alonso, A. P., and Dickstein, R. Phosphorus Deprivation Affects Membrane Composition and Spatial Distribution of Membrane Lipids in Legume Nodules. Plant Physiol. 0, 0 (2021) doi: [10.1093/plphys/kiaa115](https://doi.org/10.1093/plphys/kiaa115)  
+
+6. Rolletschek, H., Schwender, J., Konig, C., Chapman, K. D., **Romsdahl, T.**, et al. Cellular Plasticity in Response to Suppression of Storage Proteins in the *Brassica napus* Embryo. The Plant Cell, 32 (2020) doi: [10.1105/tpc.19.00879](https://doi.org/10.1105/tpc.19.00879)  
+
+7. **Romsdahl, T.**, Shirani, A., Minto, R.E. et al. Nature-Guided Synthesis of Advanced Bio-Lubricants. Sci. Rep. 9, 11711 (2019) doi: [10.1038/s41598-019-48165-6](https://doi.org/10.1038/s41598-019-48165-6)  
+
+8. Sturtevant, D., **Romsdahl, T.**, Yu, X. et al. Tissue-specific differences in metabolites and transcripts contribute to the heterogeneity of ricinoleic acid accumulation in *Ricinus communis* L. (castor) seeds. Metabolimics 15(1), 1-14 (2019) doi: [10.1007/s11306-018-1464-3](https://doi.org/10.1007/s11306-018-1464-3)  
+
+9. Zimmer, B., Howell, M., Wei, Q., Ma, L., **Romsdahl, T.** et al. Loss of exogenous androgen dependence by prostate tumor cells is associated with elevated glucuronidation potential. Hormones and Cancer 7(4) (2016) doi: [10.1007/s12672-016-0268-z](https://doi.org/10.1007/s12672-016-0268-z)
