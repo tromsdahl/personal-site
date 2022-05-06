@@ -12,7 +12,13 @@ For some reason or another oxylipids have taken hold of my mind. My background i
 
 Most lipids are composed of some kind of glycerol backbone with fatty acids attached. Those fatty acids are usually only reduced hydrocarbons with the occasional double bond. This is what gives you your monounsaturated fatty acids or polyunsaturated fatty acids. But occasionally in nature you'll find hydroxy fatty acids, a kind of oxylipid.
 
-The 'oxy' in this case is referring to an oxygen. This oxygen would be bonded to one of the carbons of the fatty acids chains. It could form a double bond, in which case it would be a ketone, or form a single bond, in which case a hydrogen would also be bonded to the 'other side' of the oxygen to form a hydroxyl functional group.
+<center>![**Fig. 1. Phosphatidylcholine**](/img/01_oxylipids/pc.svg)</center>
+
+The above is a phosphatidylcholine molecule as an example, a very common lipid that makes up cell membranes. I've labeled all the 'parts' that make up this particular lipid class. The glycerol backbone (magenta) has three oxygens (O) that can bind either fatty acids, in this case two fatty acids, or another type of chemical group, and in this case would be the phosphocholine (light blue) group.
+
+The 'oxy' in 'oxylipids' refers to an oxygen. This oxygen would be bonded to one of the carbons of the fatty acids chains (i.e. one of the vertices shown in the structure above). It could form a double bond, in which case it would be a ketone, or form a single bond, in which case a hydrogen (H) would also be bonded to the 'other side' of the oxygen to form a hydroxyl functional group (see Fig. 2 below).
+
+<center>![**Fig. 2. Different ways oxygen can bind to carbon in a fatty acid**](/img/01_oxylipids/oxygen_binding.svg)</center>
 
 Oxylipids are rarer than non-oxylipids. Non-oxylipids would make up everything from cellular membranes, such as the phospholipids and sphingolipids, to storage and energy lipids, such as the triglycerides, and there are a whole host of others, e.g. steroids, signaling lipids, extracellular protective/barrier lipids (i.e. waxes, suberin and cutin in plants, etc.) Oxylipids are generally more found in the context of signaling lipids. For example lipid mediators are a form of oxygenated polyunsaturated fatty acids. During an inflammatory response, these mediators signal to the immune system that there's something wrong here, start producing factors that will aid in this distress. They can also affect the vasodilation of the vascular system in the surrounding tissue (i.e. make the blood vessels wider or more narrow) allowing more or less nutrients and fluid to the affected area.
 
