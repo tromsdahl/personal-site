@@ -45,6 +45,7 @@ ignoreFiles:
   - \.utf8\.md$
 permalinks:
   posts: /:year/:month/:day/:slug/
+googleAnalytics: "G-NRW0DXEQ91"
 markup:
   goldmark:
     renderer:
