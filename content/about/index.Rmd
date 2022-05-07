@@ -4,7 +4,7 @@ title: About
 
 <center>![](/img/2020-me.jpg){width=200 height=315}</center>
 
-I am an analytical biochemist who works with mass spectrometry. My background is more on lipidomics, but I'm interested in all sorts of metabolomics research. I also just enjoy reading and writing about science (hence the site). More recently I've become an R enthusiast and enjoy learning and applying statistical methods/functions to large data sets.
+I am an analytical biochemist who works with mass spectrometry. My background is more on lipidomics, but I'm interested in all sorts of metabolomics research. I also just enjoy reading and writing about science (hence the site).
 
 <br>
 
