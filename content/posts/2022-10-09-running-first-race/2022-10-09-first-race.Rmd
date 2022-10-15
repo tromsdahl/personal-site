@@ -7,7 +7,6 @@ categories:
 tags:
 - 10K
 - race
-show_comments: true
 ---
 
 
