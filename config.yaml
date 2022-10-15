@@ -10,6 +10,12 @@ params:
   dark: "off"
   description: Personal website of Trevor B. Romsdahl.
   highlight: yes
+utterances:
+  issue_term: pathname
+  label: 'comments'
+  repo_name: "tromsdahl/personl-site-comments"
+  theme: boxy-light
+  use_utterances: yes
 menu:
   main:
     - identifier: posts
