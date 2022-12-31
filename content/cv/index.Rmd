@@ -59,6 +59,10 @@ Biology & Chemistry Majors, Biomolecular Sciences & Environmental Studies Concen
 
 *(for the most up to date list of publications, see [google scholar](https://scholar.google.com/citations?user=0YJrauUAAAAJ&hl=en&oi=ao))*  
 
+1. **Romsdahl, T. B.**, Cocuron, J. C., Pearson, M. J., Alonso, A. P., and Chapman, K. D. A lipidomics platform to analyze the fatty acid compositions of non-polar and polar lipid molecular species from plant tissues: Examples from developing seeds and seedlings of pennycress (*Thlaspi arvense*). Frontiers in Plant Science (2022) doi: [10.3389/fpls.2022.1038161](https://doi.org/10.3389/fpls.2022.1038161)
+
+1. Johnston, C., Garcia Navarrete, L. T., Ortiz, E., **Romsdahl, T. B.**, Guzha, A., Chapman, K. D., Grotewold, E., and Alonso, A. P. Effective mechanisms for improving seed oil production in pennycress (*Thlaspi arvense* L.) highlighted by integration of comparative metabolomics and transcriptomics. Frontiers in Plant Science (2022) doi: [10.3389/fpls.2022.943585](https://doi.org/10.3389/fpls.2022.943585)
+
 1. Fenyk, S., Woodfield, H.K., **Romsdahl, T.B.**, Wallington, E., Bates, R., Fell, D.A., Chapman, K., Fawcett, T., and Harwood., J. Overexpression of phospholipid: diacylglycerol acyltransferase in *Brassica napus* results in changes in lipid metabolism and oil accumulation. Biochem J 2022; BCJ20220003. doi: [10.1042/BCJ20220003](https://doi.org/10.1042/BCJ20220003)  
 
 1. Liao, P., Lechon, T., Romsdahl, T., Woodfield, H., Fenyk, S., Fawcett, T., Wallington, E., Bates, R. E., Chye, M.-L., Chapman, K. D., Harwood, J. L., and Scofield, S. Transgenic Manipulation of Triacylglycerol Biosynthetic Enzymes in B. Napus Alters Lipid-Associated Gene Expression and Lipid Metabolism. Sci Rep 2022, 12 (1), 3352. doi: [10.1038/s41598-022-07387-x](https://doi.org/10.1038/s41598-022-07387-x)  
